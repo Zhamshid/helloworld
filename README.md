@@ -1,2 +1,7 @@
 # helloworld
-ICT Task 12
+
+Hello everyone
+My name is Zhamshid
+I'm 18
+I'm from Turkestan
+
